@@ -28,8 +28,13 @@ button {
 }
 th{
 	text-align: center;
+	
+
 }
-#wrapper {
+#showFormBtn{
+	margin-bottom: 10px;
+}
+.panel {
 	background-color: #fff;
 	max-width: 1000px;
 	margin: 0 auto;
